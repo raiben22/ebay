@@ -20,7 +20,7 @@
 }
 .termsInfo-blue{
 	height:45px;
-	background: transparent url(../images/condiciones.png) no-repeat scroll left top;
+	background: transparent url(https://raw.githubusercontent.com/raiben22/ebay/master/images/condiciones.png) no-repeat scroll left top;
 }
 .contactInfo-blue{
 	height:45px;
@@ -40,7 +40,7 @@
 }
 .aboutInfo-red{
 	height:45px;
-	background: transparent url(../images/about.png) no-repeat scroll left top;
+	background: transparent url(https://raw.githubusercontent.com/raiben22/ebay/master/images/about.png) no-repeat scroll left top;
 }
 .paymentInfo-red{
 	height:45px;
@@ -80,7 +80,7 @@
 }
 .contactInfo-green{
 	height:45px;
-	background: transparent url(../images/contacto.png) no-repeat scroll left top;
+	background: transparent url(https://raw.githubusercontent.com/raiben22/ebay/master/images/contacto.png) no-repeat scroll left top;
 }
 #footer-green { 
 	background: transparent url(../images/green_01.png) repeat-x scroll top left;
@@ -100,7 +100,7 @@
 }
 .paymentInfo-yellow{
 	height:45px;
-	background: transparent url(../images/pagos.png) no-repeat scroll left top;
+	background: transparent urlhttps://raw.githubusercontent.com/raiben22/ebay/master/images/pagos.png) no-repeat scroll left top;
 }
 .termsInfo-yellow{
 	height:45px;
