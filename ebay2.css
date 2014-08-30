@@ -1,0 +1,147 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*AZUL*/
+
+#container-blue {
+	background: #FCFCFC url(../images/blue_02.png) repeat-x scroll left 94px;
+}
+
+#header-blue { 
+	background: transparent url(../images/blue_01.png) scroll top left; 	
+}
+.aboutInfo-blue{
+	height:45px;
+	background: transparent url(../../images/blue/about_blue.png) no-repeat scroll left top;
+}
+.paymentInfo-blue{
+	height:45px;
+	background: transparent url(../../images/blue/payment_blue.png) no-repeat scroll left top;
+}
+.termsInfo-blue{
+	height:45px;
+	background: transparent url(https://raw.githubusercontent.com/raiben22/ebay/master/images/condiciones.png) no-repeat scroll left top;
+}
+.contactInfo-blue{
+	height:45px;
+	background: transparent url(../../images/blue/contact_blue.png) no-repeat scroll left top;
+}
+#footer-blue { 
+	background: transparent url(../images/blue_01.png) repeat-x scroll top left;
+} 
+
+/*ROJO*/
+
+#container-red { 
+	background: #FCFCFC url(../images/red_02.png) repeat-x scroll left 94px;
+} 
+#header-red { 
+	background: transparent url(../images/red_01.png) scroll top left; 
+}
+.aboutInfo-red{
+	height:45px;
+	background: transparent url(https://raw.githubusercontent.com/raiben22/ebay/master/images/about.png) no-repeat scroll left top;
+}
+.paymentInfo-red{
+	height:45px;
+	background: transparent url(../../images/red/payment_red.png) no-repeat scroll left top;
+}
+.termsInfo-red{
+	height:45px;
+	background: transparent url(../../images/red/terms_red.png) no-repeat scroll left top;
+}
+.contactInfo-red{
+	height:45px;
+	background: transparent url(../../images/red/contact_red.png) no-repeat scroll left top;
+}
+#footer-red { 
+	background: transparent url(../images/red_01.png) repeat-x scroll top left;
+}
+
+/*VERDE*/
+
+#container-green {
+	background: #FCFCFC url(https://raw.githubusercontent.com/raiben22/ebay/master/images/green_02.png) repeat-x scroll left 94px;
+} 
+#header-green { 
+	background: transparent url(https://raw.githubusercontent.com/raiben22/ebay/master/images/green_01.png) scroll top left; 
+}
+.aboutInfo-green{
+	height:45px;
+	background: transparent url(../../images/green/about_green.png) no-repeat scroll left top;
+}
+.paymentInfo-green{
+	height:45px;
+	background: transparent url(../../images/green/payment_green.png) no-repeat scroll left top;
+}
+.termsInfo-green{
+	height:45px;
+	background: transparent url(../../images/green/terms_green.png) no-repeat scroll left top;
+}
+.contactInfo-green{
+	height:45px;
+	background: transparent url(https://raw.githubusercontent.com/raiben22/ebay/master/images/contacto.png) no-repeat scroll left top;
+}
+#footer-green { 
+	background: transparent url(../images/green_01.png) repeat-x scroll top left;
+}
+
+/*AMARILLO*/
+
+#container-yellow { 
+	background: #FCFCFC url(../images/yellow_02.png) repeat-x scroll left 94px;
+} 
+#header-yellow { 
+	background: transparent url(../images/yellow_01.png) scroll top left; 
+}
+.aboutInfo-yellow{
+	height:45px;
+	background: transparent url(../../images/yellow/about_yellow.png) no-repeat scroll left top;
+}
+.paymentInfo-yellow{
+	height:45px;
+	background: transparent url(https://raw.githubusercontent.com/raiben22/ebay/master/images/pagos.png) no-repeat scroll left top;
+}
+.termsInfo-yellow{
+	height:45px;
+	background: transparent url(../../images/yellow/terms_yellow.png) no-repeat scroll left top;
+}
+.contactInfo-yellow{
+	height:45px;
+	background: transparent url(../../images/yellow/contact_yellow.png) no-repeat scroll left top;
+}
+#footer-yellow { 
+	background: transparent url(../images/yellow_01.png) repeat-x scroll top left;
+	
+}
+
+
+body  {font: 100% Verdana, Arial, Helvetica, sans-serif;background:#bbbbbb;margin:0; padding:0;text-align:center;color: #000000;}
+#logo {margin-left: 10px; background: url(../images/logo.png); no-repeat scroll left top;}
+#container { width: 820px;  border-left:1px solid #999999;border-right:1px solid #999999;margin: 10px auto;text-align: left;}
+#header {height: 94px;padding: 0 10px 0 20px;}
+#headerLogo {float:left;}
+#nav {float:right;}
+#nav ul {margin-top:20px;list-style:none;list-style-position:outside;list-style-type:none;}
+#nav li {display:inline;padding-right:40px;}
+#nav a {color:#000000;}
+#title {color:#222222;font-size:20px;font-weight:bold;padding-bottom:20px;padding-left:10px;}
+#header h1 {margin: 0;padding: 10px 0;}
+#sidebar1 {float: left; width: 300px; padding:15px 10px 80px 20px;}
+#mainContent {margin: 0 0 0px 350px; padding: 0 25px 0 0; }
+#images {display:inline;}
+#mainImage {margin-top:22px;margin-left:20px;float:right;width:400px;}
+#thumbImage {float:right;margin-left:20px;}
+#sellerInfo{width:780px;text-align:justify;width:500px;margin-left:14px;}
+.infoText{margin-left:40px;padding-bottom:30px;}
+#footer { border-bottom:1px solid #CCCCCC;margin-top:25px;padding: 0 10px 0 20px; height:40px;}
+#footer p {margin: 0;padding: 10px 0; }
+#fLink {margin-top:12px;font-size:12px;float:left;color:#121212;}
+#fLink a {color:#000000;}
+#footNav a {color:#000000;}
+#footNav {font-size:13px;float:right;}
+#footNav ul {margin-top:10px;list-style:none;list-style-position:outside;list-style-type:none;}
+#footNav li {display:inline;padding-right:20px;}
+.fltrt { float: right;margin-left: 8px;}
+.fltlft { float: left;margin-right: 8px;}
+.clearfloat {clear:both;height:0;font-size: 1px;line-height: 0px;}
